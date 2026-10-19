@@ -9,8 +9,9 @@
 ## התקנה על הטלוויזיה (פעם אחת)
 
 1. בטלוויזיה/בסטרימר: פתחו את חנות האפליקציות והתקינו את **Downloader** (של AFTVnews).
-2. פתחו את Downloader והקלידו את הכתובת:
-   **`https://github.com/ofirgershon/kalil-tv-app/releases/latest/download/KalilTV.apk`**
+2. פתחו את Downloader והקלידו את הכתובת הקצרה:
+   **`tinyurl.com/kalil-tv-app`**
+   (או המלאה: `https://github.com/ofirgershon/kalil-tv-app/releases/latest/download/KalilTV.apk`)
 3. אשרו "התקנה ממקורות לא ידועים" עבור Downloader כשתתבקשו, ולחצו **התקנה**.
 4. פתחו את **קליל TV**, סרקו את הקוד עם הטלפון והדביקו את קישור המנוי. זהו.
 
